@@ -1,1 +1,4 @@
+# Einführung
 
+Die Digitalisierung eröffnet der Floristikbranche neue Möglichkeiten in der individuellen Gestaltung und Vermarktung. Kunden erwarten zunehmend personalisierte und einzigartige Geschenke, die über klassische Blumensträuße hinausgehen. Ziel dieses Projekts ist die Entwicklung einer modernen, interaktiven Webplattform, die es Nutzern ermöglicht, individuelle Blumensträuße mit verschiedenen Dekorationselementen wie Glitzer, kleinen Deko-Vögeln, Schmetterlingen und Kristallen zu gestalten. 
+Ergänzt wird das Angebot durch exklusive Geschenkboxen in Herzform, die zur Hälfte mit edlen Rosen und zur Hälfte mit hochwertigen Süßigkeiten gefüllt sind. Alle Sträuße und Geschenkboxen werden vollständig selbst konzipiert und gefertigt, um höchste Qualität und Individualität sicherzustellen.
