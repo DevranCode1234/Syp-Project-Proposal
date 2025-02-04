@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/60a4ef1d-6160-40d5-9147-37a48328cb81)
 # Syp-Project-Proposal
 Saglik Devran und Fawad Naimzada
 
