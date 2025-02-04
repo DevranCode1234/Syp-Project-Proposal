@@ -13,3 +13,9 @@ Saglik Devran und Fawad Naimzada
 8. [Projektzeitplan](Projektzeitplan.md)
 9. [Erwartete Ergebnisse](ErwarteteErgebnisse.md)
 10. [Fazit](Fazit.md)
+
+Ich freue mich auf Ihr Feedback und Ihre Zustimmung zu diesem Projekt.
+
+Mit freundlichen Grüßen,  
+Devran Saglik und Fawad Naimzada
+HTL Leonding
