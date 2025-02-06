@@ -10,16 +10,16 @@ Der Business Case basiert auf einer klaren Differenzierung im Markt. Während di
 ### Planung & Meilensteine:
 Die Umsetzung von **Safa.Rose.Atelier** erfolgt in mehreren strategischen Phasen, die es ermöglichen, das Projekt schrittweise zu entwickeln und marktgerecht zu optimieren. Die wesentlichen Meilensteine umfassen:
 
-1. **Marktforschung & Konzeptualisierung (Dauer: 1-3 Monate)**  
+1. **Marktforschung & Konzeptualisierung (Dauer: 4-12 Wochen)**  
    In dieser Phase werden umfangreiche Marktforschung und Zielgruppenanalysen durchgeführt, um die Bedürfnisse der potenziellen Kunden genau zu verstehen. Basierend auf diesen Erkenntnissen wird das endgültige Konzept des Projekts definiert. Hierzu gehören die detaillierte Festlegung der Produktpalette sowie die Auswahl und Integration von Partnern, die lebenslang haltbare Rosen und exklusive Dekorationsartikel bereitstellen.
 
-2. **Produktentwicklung & Design (Dauer: 4-6 Monate)**  
+2. **Produktentwicklung & Design (Dauer: 16-24 Wochen)**  
    In dieser Phase wird das Produktdesign entwickelt, einschließlich des Designprozesses für die Rosensträuße, Geschenkboxen und Dekorationslösungen. Gleichzeitig wird die technische Infrastruktur für die Online-Plattform aufgebaut, einschließlich des Echtzeit-Konfigurators, der es den Nutzern ermöglicht, ihre eigenen Designs zu erstellen. Dies umfasst auch die Integration der Zahlungsabwicklung und das Warenkorbsystem.
 
-3. **Testphase & Feedback (Dauer: 2-3 Monate)**  
+3. **Testphase & Feedback (Dauer: 8-12 Wochen)**  
    Nach der Fertigstellung der Entwicklungsphase folgt eine Beta-Testphase. Hier wird die Plattform mit einer ausgewählten Gruppe von Nutzern getestet. Das Ziel ist es, Feedback zu sammeln und die Benutzererfahrung zu optimieren. Auf Basis des Nutzerfeedbacks werden Anpassungen und Verbesserungen vorgenommen.
 
-4. **Markteinführung & Marketing (Dauer: 1-2 Monate)**  
+4. **Markteinführung & Marketing (Dauer: 4-8 Wochen)**  
    Nach der Optimierung wird die Plattform für die breite Öffentlichkeit zugänglich gemacht. In dieser Phase wird eine umfangreiche Marketingkampagne gestartet, um die Marke und die angebotenen Produkte bekannt zu machen. Die Kampagne umfasst Online-Werbung, Social-Media-Marketing und Influencer-Kooperationen. Das Ziel ist es, die Marke als die erste Wahl für personalisierte Blumenarrangements und Event-Dekorationen zu positionieren.
 
 5. **Skalierung & Expansion (Dauer: laufend)**  
