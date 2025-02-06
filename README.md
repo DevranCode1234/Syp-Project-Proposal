@@ -10,7 +10,8 @@ Saglik Devran und Fawad Naimzada
 3. [Marktanalyse & Konkurrenzvergleich](IS.md)
 4. [Lieferketten & Logistik (CC - Customer & Commerce)](CC.md)
 5. [Technische Relevanz (Z&K - Zukunft & Kernfunktionen)](Z&K.md)
-6. [Business Case & Planung (P - Planung & Meilensteine)](P.md)
+6. [Rückgabe und Gewährleiatung](Q&R.md)
+7. [Business Case & Planung (P - Planung & Meilensteine)](P.md)
 
 Ich freue mich auf Ihr Feedback und Ihre Zustimmung zu diesem Projekt.
 
